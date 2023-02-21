@@ -1,0 +1,32 @@
+h1 {
+    color: chartreuse;
+    text-align: left;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: left;
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+}
+
+p {
+    color: crimson;
+    font-size: small;
+}
+.one {
+    color: darkblue;
+    text-align:left;
+}
+.two {
+    color: brown;
+    text-align:left;
+}
+#Kayongo{
+    color: cyan;
+    font-size: xx-large;
+}
