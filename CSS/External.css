@@ -30,3 +30,20 @@ p {
     color: cyan;
     font-size: large;
 }
+.container{
+    border-color: blue;
+    border-style: dotted;
+}
+.col{
+border-color: black;
+border-style: dashed;
+}
+#adv{
+    color: firebrick;
+}
+#dis{
+    color: blueviolet;
+}
+#how{
+    color: blue;
+}
